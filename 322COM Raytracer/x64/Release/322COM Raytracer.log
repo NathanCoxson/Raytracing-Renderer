@@ -1,0 +1,33 @@
+﻿  main.cpp
+  Raytracer.cpp
+C:\Users\natha\Desktop\UNI WORK\Raytracing-Renderer\322COM Raytracer\include\OBJ_Loader.h(949): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\natha\Desktop\UNI WORK\Raytracing-Renderer\322COM Raytracer\Raytracer.cpp(94): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\natha\Desktop\UNI WORK\Raytracing-Renderer\322COM Raytracer\Raytracer.cpp(272): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\natha\Desktop\UNI WORK\Raytracing-Renderer\322COM Raytracer\Raytracer.cpp(282): warning C4244: 'initializing': conversion from 'float' to 'size_t', possible loss of data
+C:\Users\natha\Desktop\UNI WORK\Raytracing-Renderer\322COM Raytracer\Raytracer.cpp(283): warning C4244: 'initializing': conversion from 'float' to 'size_t', possible loss of data
+C:\Users\natha\Desktop\UNI WORK\Raytracing-Renderer\322COM Raytracer\Raytracer.cpp(284): warning C4244: 'initializing': conversion from 'float' to 'size_t', possible loss of data
+C:\Users\natha\Desktop\UNI WORK\Raytracing-Renderer\322COM Raytracer\Raytracer.cpp(289): warning C4244: 'initializing': conversion from 'float' to 'size_t', possible loss of data
+C:\Users\natha\Desktop\UNI WORK\Raytracing-Renderer\322COM Raytracer\Raytracer.cpp(290): warning C4244: 'initializing': conversion from 'float' to 'size_t', possible loss of data
+C:\Users\natha\Desktop\UNI WORK\Raytracing-Renderer\322COM Raytracer\Raytracer.cpp(291): warning C4244: 'initializing': conversion from 'float' to 'size_t', possible loss of data
+C:\Users\natha\Desktop\UNI WORK\Raytracing-Renderer\322COM Raytracer\Raytracer.cpp(423): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\natha\Desktop\UNI WORK\Raytracing-Renderer\322COM Raytracer\Raytracer.cpp(424): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\natha\Desktop\UNI WORK\Raytracing-Renderer\322COM Raytracer\Raytracer.cpp(755): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\natha\Desktop\UNI WORK\Raytracing-Renderer\322COM Raytracer\Raytracer.cpp(813): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\natha\Desktop\UNI WORK\Raytracing-Renderer\322COM Raytracer\Raytracer.cpp(815): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 2089 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  322COM Raytracer.vcxproj -> C:\Users\natha\Desktop\UNI WORK\Raytracing-Renderer\x64\Release\322COM Raytracer.exe
